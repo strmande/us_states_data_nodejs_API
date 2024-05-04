@@ -212,3 +212,12 @@
 20240504	00:08:28	e76d3ac5-79f7-4907-bb04-ca0cc1830cd2	GET	undefined	/states/AL
 20240504	00:08:40	b1405152-1a45-4182-b6ca-857e00b16e87	GET	undefined	/states/KS
 20240504	00:09:51	b30ee138-6bfe-4c32-ab11-f07e760aec9c	GET	undefined	/states/KS/funfact
+20240504	02:30:21	29fc1254-5350-4d7e-9487-e9146161c24d	PATCH	undefined	/states/KS/funfact
+20240504	02:30:45	e7697604-6402-4d5b-8478-f4ee7b63deb7	PATCH	undefined	/states/KS/funfact
+20240504	02:31:26	b5082a0f-2857-4e02-9723-22e22b9a8a11	PATCH	undefined	/states/KS/funfact
+20240504	02:32:32	aaeb4d63-16c3-4872-a7d2-d4b7b2043d40	PATCH	undefined	/states/KS/funfact
+20240504	02:33:55	2ca85bef-410a-440e-9846-2f7e6ea4b340	PATCH	undefined	/states/KS/funfact
+20240504	02:34:23	0fedadb1-6bcc-4892-b8f6-08bfd8ee267e	DELETE	undefined	/states/KS/funfact
+20240504	02:34:41	0ffa5686-adef-4d0a-8ab4-62f584460a85	DELETE	undefined	/states/KS/funfact
+20240504	02:37:25	d0b36582-1d6e-4d9e-84ef-6fa3b23c69ce	DELETE	undefined	/states
+20240504	02:37:35	f0912e3e-ae00-411e-ad73-67c20ff74125	GET	undefined	/states
